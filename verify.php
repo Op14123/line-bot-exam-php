@@ -12,4 +12,4 @@ $result = curl_exec($ch);
 curl_close($ch);
 
 echo $result;
-echo 'OK';
+echo "Hello LINE BOT 1";
